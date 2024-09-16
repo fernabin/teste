@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class git{
     public static void main(String[] args) {
-        // Cria um scanner para ler a entrada do usuário
         Scanner scanner = new Scanner(System.in);
 
         // Solicita ao usuário para digitar um número
